@@ -2,10 +2,12 @@
 tags: [Notebooks/Linear Lectures]
 title: 'Lecture 3, Vectors'
 created: '2024-08-27T05:33:28.982Z'
-modified: '2024-08-28T22:30:02.853Z'
+modified: '2024-08-28T22:47:52.685Z'
 ---
 
 # Lecture 3, Vectors
+
+* **Prepared by:** Robert Conde
 
 ## Simple Definition of Vectors
 
